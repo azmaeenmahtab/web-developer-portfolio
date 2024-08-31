@@ -1,48 +1,70 @@
-body{
-  font-family: "Open Sans" , system-ui;
+body {
+    font-family: "Open Sans", system-ui;
 }
-h3{
+
+h3 {
     padding-left: 50px;
-    padding-right: 220px;
+    padding-right: 240px;
+    /* padding-bottom: 50px; */
+    /* font-size: 20px; */
 }
-nav{
+
+nav {
     display: flex;
 }
-nav a{
+
+nav a {
     text-decoration: none;
 }
-ul{
+
+ul {
     display: flex;
     text-decoration: none;
     list-style: none;
 
 }
-li{
+
+li {
     text-decoration: none;
     padding-right: 50px;
     color: #474747;
 }
-.nav title{
-    color:#181818;
+
+.navtitle {
+    color: #181818;
     font-weight: 800;
-    font-size: 45px;
+    font-size: 20px;
 }
-.primarycolor{
-color: #FD6E0A;
+.mary{
+    font-weight: 800;
+    font-size: 30px;
 }
-main{
+
+.primarycolor {
+    color: #FD6E0A;
+}
+
+main {
     display: flex;
 }
-section{
+
+section {
     padding-left: 50px;
 }
-img{
-    padding-right:40px;
+
+img {
+    padding-right: 40px;
+
 
 }
-.secondcolor{
+
+.secondcolor {
     color: #474747;
 }
-.para{
-font-size: 10px;
+
+.para {
+    font-size: 10px;
+}
+.secondary{
+    margin-right: 20px;
 }
