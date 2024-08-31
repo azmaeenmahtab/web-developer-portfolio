@@ -77,12 +77,18 @@ div{
 .btnprimary{
     color: white;
     background-color:#FD6E0A;
+    border: none;
 }
 .colorful{
     background-color:#FD6E0A;
     color:white;
+    border: none;
 }
 .colorless{
     background-color: #FFF8F3;
     color: #FD6E0A;
+    border:1px solid #FD6E0A;
+}
+button{
+    border-radius: 4px;
 }
