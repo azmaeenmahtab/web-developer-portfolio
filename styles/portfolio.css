@@ -1,0 +1,38 @@
+body{
+  font-family: "Open Sans" , system-ui;
+}
+h3{
+    padding-left: 50px;
+    padding-right: 220px;
+}
+nav{
+    display: flex;
+}
+nav a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+
+}
+li{
+    text-decoration: none;
+    padding-right: 50px;
+    color: #474747;
+}
+.nav title{
+    color:#181818;
+    font-weight: 800;
+    font-size: 45px;
+}
+.primarycolor{
+color: #FD6E0A;
+}
+main{
+    display: flex;
+}
+section{
+    padding-left: 50px;
+}
