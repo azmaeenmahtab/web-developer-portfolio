@@ -187,3 +187,31 @@ button {
     padding-bottom:none;
     padding-top: 18px;
 }
+.smrytitle{
+    text-align: center;
+}
+.smrycontent{
+    display: flex;
+    /* margin-right: 60px; */
+    padding-right: 40px;
+}
+
+
+
+
+.institutenm{
+    color: #474747;
+    font-size: 10px;
+    /* font-weight:800px ; */
+    
+}
+.smrypara{
+    font-size: 8px;
+    color: #474747;
+}
+.edudiv{
+    width: 210px;
+}
+.expdiv{
+    width: 210px;
+}
