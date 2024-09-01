@@ -188,14 +188,19 @@ button {
     padding-top: 18px;
 }
 .smrytitle{
-    text-align: center;
+    /* text-align: center; */
+    padding-left: 280px;
 }
 .smrycontent{
     display: flex;
     /* margin-right: 60px; */
-    padding-right: 40px;
+    /* margin-right: 50px; */
+    padding-left: 140px;
 }
-
+.subnm{
+    font-size: 12px;
+    margin-bottom: 1px;
+}
 
 
 
@@ -203,6 +208,7 @@ button {
     color: #474747;
     font-size: 10px;
     /* font-weight:800px ; */
+    /* padding-top:none; */
     
 }
 .smrypara{
@@ -210,8 +216,24 @@ button {
     color: #474747;
 }
 .edudiv{
-    width: 210px;
+    width: 240px;
+    margin-right: 50px;
 }
 .expdiv{
-    width: 210px;
+    width: 240px;
+}
+.persubjectdiv{
+    /* text-decoration: underline; */
+    display: block;
+}
+.resumebtn{
+    /* text-align: center; */
+    background-color: #FD6E0A;
+    /* background-position: center; */
+    margin-left: 320px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    width: 130px;
+    height: 30px;
 }
