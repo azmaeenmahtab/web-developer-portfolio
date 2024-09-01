@@ -3,7 +3,7 @@ body {
     display: block;
 }
 
-h3 {
+.navtitle{
     padding-left: 50px;
     padding-right: 240px;
     /* padding-bottom: 50px; */
@@ -115,6 +115,7 @@ button {
     padding: 110px;
     padding-top: 5px;
     padding-bottom: 50px;
+    width: 750px;
 
 }
 
@@ -149,4 +150,40 @@ button {
 .about-title {
     margin-top: 30px;
 
+}
+.skilltitle{
+    text-align: center;
+}
+.skl1stpara{
+    font-size: 8px;
+   padding-left: 170px;
+    color: #474747;
+    width: 400px;
+    text-align: center;
+}
+.skills{
+    display: flex;
+    padding-left: 130px;
+
+}
+.sklnote{
+    font-size: 8px;
+    padding-top:none;
+}
+.skldiv{
+    width: 80px;
+    height: 180px;
+    /* background-color:white;
+    border: 1px solid white;
+     */
+     background-color: #FFF8F3;
+    margin: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+}
+.sklname{
+    font-size: 9px;
+    padding-bottom:none;
+    padding-top: 18px;
 }
