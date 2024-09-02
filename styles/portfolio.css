@@ -251,6 +251,9 @@ button {
     display: flex;
     height: 300px;
     padding-top: 40px;
+    background-color: #FFF8F3
+    ;
+    margin-top: 40px;
 
 }
 .footerpara{
@@ -268,4 +271,34 @@ button {
 .footerform{
     /* font-size: 8px; */
     display: block;
+
+}
+.footerinput{
+    font-size: 8px;
+    width: 175px;
+    height: 20px;
+    margin-bottom: 8px;
+    border: none;
+    padding-left: 12px;
+
+}
+.footertxtarea{
+    font-size: 10px;
+    width: 175px;
+    height: 58px;
+    margin-top: 2px;
+    border: none;
+    padding-left: 12px;
+}
+
+.footerbtn{
+    font-size: 10px;
+    /* width: 200px; */
+    border: none;
+    width: 60px;
+    height: 30px;
+    margin-top: 6px;
+    color: white;
+    background-color: #FD6E0A
+    ;
 }
