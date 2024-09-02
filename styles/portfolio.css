@@ -150,6 +150,9 @@ button {
     margin-top: 30px;
 
 }
+.skillfirstdiv{
+    width: 750px;
+}
 
 .skilltitle {
     /* text-align: center; */
@@ -191,7 +194,9 @@ button {
     padding-bottom: none;
     padding-top: 18px;
 }
-
+.smrydiv{
+    width: 750px;
+}
 .smrytitle {
 
     padding-left: 280px;
@@ -254,6 +259,7 @@ button {
     background-color: #FFF8F3
     ;
     margin-top: 40px;
+    width: 750px;
 
 }
 .footerpara{
