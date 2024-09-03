@@ -5,6 +5,7 @@ body {
 .introdiv {
     background-color: #FFF8F3;
     margin-bottom: 50px;
+    /* margin-left: 70px; */
     width: 750px;
     background-image: url('../portfolio-resources/images/header_bg.png');
     background-repeat: no-repeat;
@@ -78,11 +79,15 @@ img {
 .secondary {
     margin-right: 20px;
 }
+.head-container{
+    margin-left: 50px;
+}
 
 
 
 .head {
     background-color: #FFF8F3;
+    margin-left: 50px;
 }
 
 .btnprimary {
