@@ -169,30 +169,32 @@ button {
 
 .skills {
     display: flex;
-    padding-left: 130px;
+    padding-left: 100px;
+    /* margin: auto; */
 
 }
 
 .sklnote {
     font-size: 8px;
-    padding-top: none;
+    padding-top: 0px;
 }
 
 .skldiv {
-    width: 80px;
-    height: 180px;
+    width: 100px;
+    height: 140px;
 
     background-color: #FFF8F3;
     margin: 7px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 10px;
 
 }
 
 .sklname {
     font-size: 9px;
-    padding-bottom: none;
-    padding-top: 18px;
+    /* padding-bottom: none;
+    padding-top: none; */
+    margin-top: 8px;
+    margin-bottom: 6px;
 }
 .smrydiv{
     width: 750px;
