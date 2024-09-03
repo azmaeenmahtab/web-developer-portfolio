@@ -5,12 +5,13 @@ body {
 .introdiv {
     background-color: #FFF8F3;
     margin-bottom: 50px;
-    /* margin-left: 70px; */
+   
     width: 750px;
     background-image: url('../portfolio-resources/images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 300px 180px;
+   
 }
 .navtitle {
     padding-left: 50px;
