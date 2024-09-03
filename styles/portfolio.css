@@ -7,6 +7,9 @@ body {
     margin-bottom: 50px;
     width: 750px;
     background-image: url('../portfolio-resources/images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 300px 180px;
 }
 .navtitle {
     padding-left: 50px;
