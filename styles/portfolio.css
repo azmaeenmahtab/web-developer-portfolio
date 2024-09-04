@@ -321,3 +321,7 @@ button {
     background-color: #FD6E0A
     ;
 }
+.social-links-icon img{
+    /* margin-right: 25px; */
+    padding-right: 20px;
+}
