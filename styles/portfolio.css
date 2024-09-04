@@ -45,28 +45,21 @@ li {
     font-weight: 800;
     font-size: 20px;
 }
-
 .mary {
     font-weight: 800;
     font-size: 30px;
 }
-
 .primarycolor {
     color: #FD6E0A;
 }
-
 main {
     display: flex;
 }
-
 section {
     padding-left: 50px;
 }
-
 img {
     padding-right: 40px;
-
-
 }
 
 .secondcolor {
@@ -80,11 +73,6 @@ img {
 .secondary {
     margin-right: 20px;
 }
-.head-container{
-    /* margin-left: 50px; */
-}
-
-
 
 .head {
     background-color: #FFF8F3;
